@@ -18,3 +18,11 @@ header{
 .cartao__conteudo:hover{
     transform: scale(1.01);
 }
+
+.cartao__conteudo__resposta{
+    display: none;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(107, 3, 3);
+    color: rgb(255, 255, 255);
+}
