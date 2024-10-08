@@ -12,6 +12,7 @@ header{
     border: 1px solid rgb(107, 3, 3);
     border-radius: 2px;
     box-shadow: 0 4px 6px rgb(53, 3, 3);
+    color: rgb(53, 3, 3);
     transition: transform 0.2;
     margin: 10px;
 }
