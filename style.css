@@ -5,3 +5,12 @@ header{
     font-size: 2vw;
     padding: 11px;
 }
+
+.cartao__conteudo{
+    padding: 20px;
+    border: 1px solid rgb(107, 3, 3);
+    border-radius: 2px;
+    box-shadow: 0 4px 6px rgb(53, 3, 3);
+    transition: transform 0.2;
+    margin: 10px;
+}
